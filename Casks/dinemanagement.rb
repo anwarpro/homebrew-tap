@@ -10,5 +10,5 @@ cask "dinemanagement" do
   auto_updates true
 
 
-  pkg "dine-management.app.pkg"
+  pkg "dine-management.app"
 end
