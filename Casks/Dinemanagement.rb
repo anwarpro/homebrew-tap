@@ -1,4 +1,4 @@
-# Generated with JReleaser 1.9.0 at 2024-01-23T01:54:11.867259+06:00
+# Generated with JReleaser 1.9.0 at 2024-01-23T01:58:49.492725+06:00
 cask "dine-management" do
   desc "Effortless restaurant operations with intuitive dine management software."
   homepage "https://dine.helloanwar.com"
