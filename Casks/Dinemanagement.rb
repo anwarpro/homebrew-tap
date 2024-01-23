@@ -1,5 +1,5 @@
-# Generated with JReleaser 1.9.0 at 2024-01-23T02:30:25.880734+06:00
-cask "dinemanagement" do
+# Generated with JReleaser 1.9.0 at 2024-01-23T15:12:27.182085+06:00
+cask "Dinemanagement" do
   desc "Effortless restaurant operations with intuitive dine management software."
   homepage "https://dine.helloanwar.com"
   url "https://github.com/anwarpro/dine-management-releases/releases/download/v1.0.4/dine-management-1.0.4.dmg",
@@ -10,5 +10,5 @@ cask "dinemanagement" do
   auto_updates true
 
 
-  app "DineManagement.app"
+  app ""
 end
